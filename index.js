@@ -35,7 +35,7 @@ console.log(output);
 let fname = "Romy";
 let lname = "Sunny";
 let email = "romysunny5@gmail.com";
-let sentence = `My name is ${fname} ${lname} . You can contact me at ${email}.`;
+let sentence = `My name is ${fname} ${lname}. You can contact me at ${email}.`;
 console.log(sentence);
 
 //Task Two Ends
